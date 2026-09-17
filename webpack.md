@@ -1,6 +1,6 @@
-# Webpack 5.110
+# Webpack 5.111
 
-_12 Sep 2026_
+_17 Sep 2026_
 
 ## 1. Get Started
 
@@ -18,8 +18,7 @@ bunx create-webpack-app my-webpack-app --template react
 
 cd my-webpack-app
 bun run build
-bun serve
-# Вместо `bun serve` можно запустить bun ./dist/index.html
+bun ./dist/index.html
 ```
 
 > [!NOTE]
